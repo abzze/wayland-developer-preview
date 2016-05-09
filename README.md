@@ -8,7 +8,7 @@ RealVNC are pleased to make available a free Developer Preview* of our flagship 
 Getting started
 ===============
 
-1. Download the relevant VNC for Wayland Developer Preview binary (32-bit or 64-bit), and the license key, from GitHub Releases. 
+1. Download the relevant VNC for Wayland Developer Preview binary (32-bit or 64-bit), and the license key, from [GitHub Releases](https://github.com/RealVNC/wayland-developer-preview/releases). 
 
 2. Checkout and build the [Wayland](https://cgit.freedesktop.org/wayland/wayland/) master branch. Note the Developer Preview was built against commit [113aac5](https://cgit.freedesktop.org/wayland/wayland/commit/?id=113aac5afbcce446e65d3d309a0e200b39c9e7ff).
 
