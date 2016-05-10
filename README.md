@@ -103,8 +103,7 @@ This section lists differences between the Wayland and a standard X-based instal
 Feedback and support
 ====================
 
-Please [contact Support](mailto:waylandsupport@realvnc.com) to provide feedback, ask a question, or report a problem.
-
+We'd love to hear your thoughts! If you have any feedback, or if you've spotted a bug, please let us know through GitHub's [issue reports](https://github.com/RealVNC/wayland-developer-preview/issues) page.
 
 
 
